@@ -8,9 +8,9 @@ June 2020
 
 ## Project Synopis:
 WeJog is a fitness tracking mobile application that allows user to track the number of their footsteps through smartphone accelerometer and compared with the user-defined goals such as distance goal, footstep goal, and calorie burnt through walking goal. This app also allow users to track their daily calorie intake, blood pressure and todo list.
-................................................................................................................
+<br>................................................................................................................
 
-_Note: Briefly describe what your app is all about_
+
 
 ## Group Members
 
@@ -21,10 +21,6 @@ _Note: Briefly describe what your app is all about_
 
 ## Video URL: https://www.youtube.com/watch?v=O1g5aGTxpLU
 
-_Note:_
-
-- Video must be uploaded to youtube.
-- Provide timestamps to your video.
 
 ## REST API URL/Project URL on Firebase or heroku : https://us-central1-wejogmobile.cloudfunctions.net/api
 
@@ -35,6 +31,7 @@ _Note:_
 ## User credential (username and passwords) to test out your app:
 
 1. user's credential:
-
+<br>
 Email: WeJogTest@gmail.com
+<br>
 Password: WeJog123
